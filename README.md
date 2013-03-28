@@ -1,0 +1,4 @@
+Rime-Icon
+=========
+
+Rime Icon
